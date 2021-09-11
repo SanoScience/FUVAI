@@ -2,7 +2,7 @@
 Repository for paper "Deep Learning Fetal Ultrasound Video Model Match Human Observers in Biometric Measurements"
 submitted to [Physics in Medicine \& Biology journal](https://iopscience.iop.org/journal/0031-9155). 
 
-You can find multi-task neural network model for 2D+t spatio-temporal video analysis under attention_convlstm.py file.
+You can find multi-task neural network model for 2D+t spatio-temporal video analysis under models/fuvai.py file.
 
 Pre-trained weights for FUVAI model: [Google Drive](https://drive.google.com/file/d/1lTmOmiiLMtELhd0HKjVsg_MoWEZ3oovN/view?usp=sharing)
 
